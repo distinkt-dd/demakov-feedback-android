@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Диалог</string>
+    <string name="student_name">Демаков Дмитрий Максимович</string>
+    <string name="student_group">Т-433901-НТ</string>
+    <string name="student_details">Демаков Дмитрий Максимович · Т-433901-НТ</string>
+    <string name="screen_heading">Связь и обучение</string>
+    <string name="screen_description">Напишите нам, проверьте знания или создайте уведомление.</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="quiz">Тестирование</string>
+    <string name="notification">Уведомление</string>
+    <string name="full_name">ФИО</string>
+    <string name="email">Email</string>
+    <string name="send">Отправить</string>
+    <string name="answer">Выбрать ответ</string>
+    <string name="notify">Отправить уведомление</string>
+    <string name="question">Какой компонент Android показывает краткое всплывающее сообщение?</string>
+    <string name="choose_answer">Выберите правильный ответ</string>
+    <string name="success">Верно!</string>
+    <string name="failure">Неверно, попробуйте ещё раз</string>
+    <string name="application_title">Заявка отправлена</string>
+    <string name="application_details">ФИО: %1$s
+Email: %2$s</string>
+    <string name="required_field">Заполните поле</string>
+    <string name="invalid_email">Укажите корректный email</string>
+    <string name="channel_name">Уведомления студента</string>
+    <string name="permission_denied">Разрешите уведомления в настройках приложения</string>
+    <string name="okay">Понятно</string>
+</resources>
